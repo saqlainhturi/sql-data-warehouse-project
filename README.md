@@ -99,6 +99,6 @@ The overall structure of this project (Medallion architecture, layer breakdown, 
 
 ## 👤 About Me
 
-I'm **Saqlain Haider** — currently working in data operations on a large-scale logistics system (250+ contracting companies, 2,000+ daily vehicle movements tracked), and building a career in BI and analytics. 
+I'm **Saqlain Haider** — currently working in data operations on a large-scale logistics system at Qiddiya (250+ contracting companies, 2,000+ daily vehicle movements tracked), and building a career in BI and analytics. 
 
 - 📧 saqlainhturi@gmail.com
